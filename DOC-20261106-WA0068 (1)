@@ -1,0 +1,96 @@
+<html>
+<head>
+<title>بحث عن ازاي اغير الوان وخطوط وتصميم المواقع</title>
+<br>
+</head>
+<body>
+    <h1>شهد علي عبد اللطيف مصطفي</h1>
+    <h1>سكشن\85</h1>
+    <h1>مجموعه\ج</h1>
+    <h1>عنوان البحث\ ازاي اغير الوان وخطوط وتصميم المواقع </h1>
+    <br>
+    <br>
+</body>
+<br>
+</html>
+<br>
+<html>
+<body>
+<h2>مقدمه توضح لنا هنكلم عن اي </h2>
+<br>
+<P>لغة scc تستخدم ل
+لاضافة الاشكال والالوان
+ وتنسيق الخطوط وترتيب العناصر في صفحات الويب
+لجعلها اكثر جاذبيه مش مجرد نصوص 
+</P>
+<hr>
+</body>
+<br>
+</html>
+<br>
+<html>
+<body>
+<h2>تغير الالوان</h2>
+<br>
+<p>
+<ol
+type="I"> 
+    <li>لون النص\نستخدم خاصية color</li> 
+    <li> لون الخلفيه\ نستخدم خاصية background-color </li>
+    <li> Background-color;}body</li> 
+    <li> Color;}body</li>
+</ol>
+</p>
+<hr>
+</body>
+<br>
+</html>
+<br>
+<html>
+<body>
+<h2>تغير الخطوط</h2>
+<p>
+    <ol type="I">
+<li>تغير نوع الخط \نستخدم خاصية font-family</li>
+<li> تغير حجم الخط \نستخدم خاصية font-size</li>
+<li>تغير سمك الخط \نستخدم خاصية font-weight</li>
+<li>Font-family}bady</li>
+<li>Font-size;}h2</li>
+<li>Font-weight}h2</li>
+    </ol>
+</p>
+<hr>
+</body>
+<br>
+</html>
+<br>
+<html>
+<body>
+<h2>تصميم المواقع</h2>
+<p>التصميم يشمل التحكم في المسافات – الحدود –حجم ومكان العناصر 
+<ol  type="I">   
+<li>المسافات\ للتكم في المسافه الداخليه بين العناصر padding </li>
+<li>للتحكم في المسافه الخارجيه margih
+الحدود\ لعمل اطار حول العنصرborder
+تخطيط الصفحه </li>
+<li>لترتيب العناصر في صف او عمود display;flex</li>
+<li>لتقسيم الصفحه الي اعمده وصفوف منظمه display;grid</li>
+</ol>
+</p>
+<hr>
+</body>
+</html>
+<br>
+<html>
+<body>
+<h2>المراجع والمصادر  </h2>
+<p> 
+<a>المراجع 
+منظمةWorld wide web consortium
+موقعcss-tricks  
+</a>
+<a>المصادر 
+<img</a>google
+</p>
+</body>
+</html>
